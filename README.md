@@ -15,7 +15,7 @@ Python package to provide utilities for NHS Numbers, including validity checks, 
         <td>Supported versions</td>
         <td><img src='https://img.shields.io/pypi/pyversions/nhs-number.svg'></td>
         <td>Coverage</td>
-        <td><img src='https://codecov.io/gh/andylaw/NhsNumberChecks/branch/main/graph/badge.svg'></td>
+        <td><img src='https://codecov.io/gh/uk-fci/nhs-number/branch/main/graph/badge.svg'></td>
     </tr>
     <tr>
         <td>Wheel</td>
